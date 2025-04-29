@@ -1,5 +1,5 @@
 # MSAZ9002025
-## Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization (2025 Version)
+## Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization (2025 Version) - 4 course series
 
 Cloud computing is rapidly expanding into all areas of businesses, creating new and exciting career opportunities. These opportunities cover a broad range of roles, from developers and architects to security professionals and data scientists. This program will give you the fundamental knowledge, skills, and confidence to begin your Microsoft Azure certification journey.
 
